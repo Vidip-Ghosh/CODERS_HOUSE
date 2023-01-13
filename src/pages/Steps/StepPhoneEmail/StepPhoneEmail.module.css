@@ -1,0 +1,29 @@
+.cardWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #c4c5c5;
+    margin-top: 30px;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    background-color: #0077FF;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 30px;
+}
